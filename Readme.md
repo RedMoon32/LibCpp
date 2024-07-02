@@ -279,14 +279,14 @@ id,title,author,year,category,total,available,issue_number
 
 **authors.csv**
 ```csv
-first_name,last_name,birth_year,works
-"Лев","Толстой",1828,"Война и мир,Анна Каренина"
-"Фёдор","Достоевский",1821,"Преступление и наказание,Идиот"
+first_name,last_name,birth_year
+"Лев","Толстой",1828
+"Фёдор","Достоевский",1821
 ```
 
 **readers.csv**
 ```csv
-first_name,last_name,card_number,borrowed_items
-"Иван","Иванов",12345,"Война и мир"
-"Пётр","Петров",67890,"Преступление и наказание"
+first_name,last_name,card_number
+"Иван","Иванов",12345
+"Пётр","Петров",67890
 ```
