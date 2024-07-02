@@ -280,9 +280,9 @@ id,title,author,year,category,total,available,issue_number
 **authors.csv**
 ```csv
 full_name,birth_year
-"Лев","Толстой",1828
-"Фёдор","Достоевский",1821
-"Редакция
+"Лев Толстой",1828
+"Фёдор Достоевский",1821
+"Редакция",2013
 ```
 
 **readers.csv**
